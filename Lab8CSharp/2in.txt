@@ -1,0 +1,2 @@
+Recently, we received a message from a computer, its IP address was empty
+But later we received b similar messages from other computers with k IP addresses - that we cant normally understand
